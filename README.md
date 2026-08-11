@@ -8,8 +8,6 @@ The project works with employee, project, and seniority data and combines multip
 
 The objective is to demonstrate how raw datasets can be cleaned, transformed, merged, enriched, and aggregated to produce structured data ready for further analysis.
 
-<img width="962" height="561" alt="image" src="https://github.com/user-attachments/assets/3ec927cd-02d3-4982-8fbd-de0d76d7d7bf" />
-
 ---
 
 ## 🎯 Project Objectives
